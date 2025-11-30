@@ -1,0 +1,11 @@
+17:46:48.109 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:46:48.125 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\rohit jadhav\AppData\Local\Temp\testng-eclipse--1214372786\testng-customsuite.xml
+
+17:46:48.152 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+17:46:48.436 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7ec3394b: 85 ms
+17:46:48.451 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1c6804cd: 15 ms
+17:46:48.465 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@62452cc9: 14 ms
+17:46:48.475 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58fe0499: 10 ms
+17:46:48.486 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5c00384f: 10 ms
+17:46:48.487 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3b7ff809: 0 ms

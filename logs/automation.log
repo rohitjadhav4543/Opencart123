@@ -1,0 +1,48 @@
+2025-11-29 12:10:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-11-29 12:10:49 INFO  TC001_AccountRegistrationTest:28 - *****starting TC001_AccountRegistrationTest****
+2025-11-29 12:10:49 INFO  TC001_AccountRegistrationTest:33 - *** Clicked on my account link ***
+2025-11-29 12:10:49 INFO  TC001_AccountRegistrationTest:36 - *** Clicked on Register link ***
+2025-11-29 12:10:49 INFO  TC001_AccountRegistrationTest:41 - *** providing customer details***
+2025-11-29 12:10:52 INFO  TC001_AccountRegistrationTest:60 - *** validating expected message***
+2025-11-29 12:10:53 INFO  TC001_AccountRegistrationTest:85 - *****Finished TC0001_AccountRegistrationTest *****
+2025-11-29 12:11:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-11-29 12:16:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-11-29 12:16:41 INFO  TC001_AccountRegistrationTest:28 - *****starting TC001_AccountRegistrationTest****
+2025-11-29 12:16:41 INFO  TC001_AccountRegistrationTest:33 - *** Clicked on my account link ***
+2025-11-29 12:16:42 INFO  TC001_AccountRegistrationTest:36 - *** Clicked on Register link ***
+2025-11-29 12:16:42 INFO  TC001_AccountRegistrationTest:41 - *** providing customer details***
+2025-11-29 12:16:45 INFO  TC001_AccountRegistrationTest:60 - *** validating expected message***
+2025-11-29 12:16:45 INFO  TC001_AccountRegistrationTest:85 - *****Finished TC0001_AccountRegistrationTest *****
+2025-11-29 12:19:43 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-11-29 12:19:53 INFO  TC001_AccountRegistrationTest:28 - *****starting TC001_AccountRegistrationTest****
+2025-11-29 12:19:53 INFO  TC001_AccountRegistrationTest:33 - *** Clicked on my account link ***
+2025-11-29 12:19:54 INFO  TC001_AccountRegistrationTest:36 - *** Clicked on Register link ***
+2025-11-29 12:19:54 INFO  TC001_AccountRegistrationTest:41 - *** providing customer details***
+2025-11-29 12:19:57 INFO  TC001_AccountRegistrationTest:60 - *** validating expected message***
+2025-11-29 12:19:57 INFO  TC001_AccountRegistrationTest:85 - *****Finished TC0001_AccountRegistrationTest *****
+2025-11-29 12:27:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-11-29 12:27:38 INFO  TC001_AccountRegistrationTest:28 - *****starting TC001_AccountRegistrationTest****
+2025-11-29 12:27:38 INFO  TC001_AccountRegistrationTest:33 - *** Clicked on my account link ***
+2025-11-29 12:27:39 INFO  TC001_AccountRegistrationTest:36 - *** Clicked on Register link ***
+2025-11-29 12:27:39 INFO  TC001_AccountRegistrationTest:41 - *** providing customer details***
+2025-11-29 12:27:42 INFO  TC001_AccountRegistrationTest:60 - *** validating expected message***
+2025-11-29 12:27:42 INFO  TC001_AccountRegistrationTest:85 - *****Finished TC0001_AccountRegistrationTest *****
+2025-11-29 12:29:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-11-29 12:29:45 INFO  TC001_AccountRegistrationTest:28 - *****starting TC001_AccountRegistrationTest****
+2025-11-29 12:29:46 INFO  TC001_AccountRegistrationTest:33 - *** Clicked on my account link ***
+2025-11-29 12:29:46 INFO  TC001_AccountRegistrationTest:36 - *** Clicked on Register link ***
+2025-11-29 12:29:46 INFO  TC001_AccountRegistrationTest:41 - *** providing customer details***
+2025-11-29 12:29:49 INFO  TC001_AccountRegistrationTest:60 - *** validating expected message***
+2025-11-29 12:29:49 INFO  TC001_AccountRegistrationTest:85 - *****Finished TC0001_AccountRegistrationTest *****
